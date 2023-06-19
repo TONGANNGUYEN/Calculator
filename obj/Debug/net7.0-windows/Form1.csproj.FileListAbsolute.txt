@@ -1,0 +1,17 @@
+D:\OU_DO\InterfaceProgramming\Form1\bin\Debug\net7.0-windows\Form1.exe
+D:\OU_DO\InterfaceProgramming\Form1\bin\Debug\net7.0-windows\Form1.deps.json
+D:\OU_DO\InterfaceProgramming\Form1\bin\Debug\net7.0-windows\Form1.runtimeconfig.json
+D:\OU_DO\InterfaceProgramming\Form1\bin\Debug\net7.0-windows\Form1.dll
+D:\OU_DO\InterfaceProgramming\Form1\bin\Debug\net7.0-windows\Form1.pdb
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.csproj.AssemblyReference.cache
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.Form1.resources
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.csproj.GenerateResource.cache
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfoInputs.cache
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.AssemblyInfo.cs
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.csproj.CoreCompileInputs.cache
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.dll
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\refint\Form1.dll
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.pdb
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\Form1.genruntimeconfig.cache
+D:\OU_DO\InterfaceProgramming\Form1\obj\Debug\net7.0-windows\ref\Form1.dll
